@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NewSmoke38/intro-to-backend.git"
+    "url": "git+https://github.com/favourcodex/intro-to-backend.git"
   },
-  "author": "Favour",
+  "author": "favour",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NewSmoke38/intro-to-backend/issues"
+    "url": "https://github.com/favourcodex/intro-to-backend/issues"
   },
-  "homepage": "https://github.com/NewSmoke38/intro-to-backend#readme"
+  "homepage": "https://github.com/favourcodex/intro-to-backend#readme"
 }
+  
